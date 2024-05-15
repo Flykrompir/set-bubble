@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite18",
-    "path":"sprites/Sprite18/Sprite18.yy",
+    "name":"spr_solid_triangle",
+    "path":"sprites/spr_solid_triangle/spr_solid_triangle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

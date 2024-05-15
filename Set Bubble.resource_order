@@ -52,7 +52,7 @@
     {"name":"Sprite15","order":28,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"Sprite16","order":30,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"Sprite17","order":32,"path":"sprites/Sprite17/Sprite17.yy",},
-    {"name":"Sprite18","order":34,"path":"sprites/Sprite18/Sprite18.yy",},
+    {"name":"spr_solid_triangle","order":34,"path":"sprites/spr_solid_triangle/spr_solid_triangle.yy",},
     {"name":"Sprite19","order":36,"path":"sprites/Sprite19/Sprite19.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite20","order":38,"path":"sprites/Sprite20/Sprite20.yy",},
