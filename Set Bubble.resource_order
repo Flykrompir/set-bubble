@@ -42,7 +42,7 @@
     {"name":"Object6","order":9,"path":"objects/Object6/Object6.yy",},
     {"name":"Object7","order":11,"path":"objects/Object7/Object7.yy",},
     {"name":"Object8","order":13,"path":"objects/Object8/Object8.yy",},
-    {"name":"Object9","order":15,"path":"objects/Object9/Object9.yy",},
+    {"name":"spr_solid_rectangle","order":15,"path":"objects/spr_solid_rectangle/spr_solid_rectangle.yy",},
     {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Sprite10","order":18,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite11","order":20,"path":"sprites/Sprite11/Sprite11.yy",},

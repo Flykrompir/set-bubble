@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object9",
+  "%Name":"spr_solid_rectangle",
   "eventList":[],
   "managed":true,
-  "name":"Object9",
+  "name":"spr_solid_rectangle",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
