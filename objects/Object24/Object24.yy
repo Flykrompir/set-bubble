@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite24",
-    "path":"sprites/Sprite24/Sprite24.yy",
+    "name":"spr_dashed_circle",
+    "path":"sprites/spr_dashed_circle/spr_dashed_circle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

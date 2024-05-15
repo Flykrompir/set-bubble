@@ -59,7 +59,7 @@
     {"name":"Sprite21","order":40,"path":"sprites/Sprite21/Sprite21.yy",},
     {"name":"Sprite22","order":42,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite23","order":44,"path":"sprites/Sprite23/Sprite23.yy",},
-    {"name":"Sprite24","order":46,"path":"sprites/Sprite24/Sprite24.yy",},
+    {"name":"spr_dashed_circle","order":46,"path":"sprites/spr_dashed_circle/spr_dashed_circle.yy",},
     {"name":"Sprite25","order":48,"path":"sprites/Sprite25/Sprite25.yy",},
     {"name":"Sprite26","order":50,"path":"sprites/Sprite26/Sprite26.yy",},
     {"name":"Sprite27","order":52,"path":"sprites/Sprite27/Sprite27.yy",},
