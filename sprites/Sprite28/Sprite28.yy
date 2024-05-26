@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Румы",
-    "path":"folders/Румы.yy",
+    "name":"Спрайты",
+    "path":"folders/Спрайты.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
