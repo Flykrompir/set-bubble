@@ -46,7 +46,7 @@
     {"name":"Object7","order":11,"path":"objects/Object7/Object7.yy",},
     {"name":"Object8","order":13,"path":"objects/Object8/Object8.yy",},
     {"name":"spr_solid_rectangle","order":15,"path":"objects/spr_solid_rectangle/spr_solid_rectangle.yy",},
-    {"name":"Room1_1","order":2,"path":"rooms/Room1_1/Room1_1.yy",},
+    {"name":"rm_main","order":2,"path":"rooms/rm_main/rm_main.yy",},
     {"name":"collision_figure","order":2,"path":"scripts/collision_figure/collision_figure.yy",},
     {"name":"collision_player_with_figure","order":3,"path":"scripts/collision_player_with_figure/collision_player_with_figure.yy",},
     {"name":"get_random_sprite","order":1,"path":"scripts/get_random_sprite/get_random_sprite.yy",},
