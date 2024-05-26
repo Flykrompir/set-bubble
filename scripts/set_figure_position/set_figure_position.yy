@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"set_figure_position",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_figure_position",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

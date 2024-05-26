@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"collision_player_with_figure",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collision_player_with_figure",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_random_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_random_sprite",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

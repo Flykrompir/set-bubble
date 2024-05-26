@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"set_figure_color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_figure_color",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
