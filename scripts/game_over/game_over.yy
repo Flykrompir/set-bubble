@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"game_over",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"game_over",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

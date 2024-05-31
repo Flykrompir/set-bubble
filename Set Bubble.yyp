@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Set Bubble",
   "resources":[
@@ -45,6 +45,7 @@
     {"id":{"name":"get_random_color","path":"scripts/get_random_color/get_random_color.yy",},},
     {"id":{"name":"get_random_sprite","path":"scripts/get_random_sprite/get_random_sprite.yy",},},
     {"id":{"name":"move_player","path":"scripts/move_player/move_player.yy",},},
+    {"id":{"name":"game_over","path":"scripts/game_over/game_over.yy",},},
     {"id":{"name":"set_figure_color","path":"scripts/set_figure_color/set_figure_color.yy",},},
     {"id":{"name":"set_figure_position","path":"scripts/set_figure_position/set_figure_position.yy",},},
     {"id":{"name":"set_figure_sprite","path":"scripts/set_figure_sprite/set_figure_sprite.yy",},},
