@@ -1,1 +1,7 @@
-global.collision_figure(self)
+
+	global.collision_figure(self, other)
+
+	last = other
+
+
+
