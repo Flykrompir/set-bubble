@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"create_figures_positions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_figures_positions",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

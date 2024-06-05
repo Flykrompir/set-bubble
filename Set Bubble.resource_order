@@ -23,6 +23,7 @@
     {"name":"obj_player","order":54,"path":"objects/obj_player/obj_player.yy",},
     {"name":"rm_main","order":2,"path":"rooms/rm_main/rm_main.yy",},
     {"name":"collision_player_with_figure","order":3,"path":"scripts/collision_player_with_figure/collision_player_with_figure.yy",},
+    {"name":"create_figures_positions","order":10,"path":"scripts/create_figures_positions/create_figures_positions.yy",},
     {"name":"game_over","order":9,"path":"scripts/game_over/game_over.yy",},
     {"name":"get_random_sprite","order":1,"path":"scripts/get_random_sprite/get_random_sprite.yy",},
     {"name":"move_player","order":4,"path":"scripts/move_player/move_player.yy",},

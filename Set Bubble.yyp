@@ -40,6 +40,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"collision_player_with_figure","path":"scripts/collision_player_with_figure/collision_player_with_figure.yy",},},
+    {"id":{"name":"create_figures_positions","path":"scripts/create_figures_positions/create_figures_positions.yy",},},
     {"id":{"name":"game_over","path":"scripts/game_over/game_over.yy",},},
     {"id":{"name":"get_random_color","path":"scripts/get_random_color/get_random_color.yy",},},
     {"id":{"name":"get_random_sprite","path":"scripts/get_random_sprite/get_random_sprite.yy",},},
