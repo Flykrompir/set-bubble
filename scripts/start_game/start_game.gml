@@ -1,5 +1,5 @@
 function start_game(_methods) {
-    for (var _i = 0; _i < 10; _i++) {
+    for (var _i = 0; _i < 1; _i++) {
         var _figure = instance_create_layer(0, 0, "Instances", obj_figure);
 		
 		_methods.set_figure_sprite(_figure, global.get_random_sprite())
