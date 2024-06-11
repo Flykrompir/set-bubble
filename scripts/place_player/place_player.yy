@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"place_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"place_player",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

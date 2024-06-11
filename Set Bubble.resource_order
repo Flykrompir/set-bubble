@@ -26,6 +26,7 @@
     {"name":"game_over","order":9,"path":"scripts/game_over/game_over.yy",},
     {"name":"get_random_sprite","order":1,"path":"scripts/get_random_sprite/get_random_sprite.yy",},
     {"name":"move_player","order":4,"path":"scripts/move_player/move_player.yy",},
+    {"name":"place_player","order":10,"path":"scripts/place_player/place_player.yy",},
     {"name":"set_figure_color","order":5,"path":"scripts/set_figure_color/set_figure_color.yy",},
     {"name":"set_figure_position","order":6,"path":"scripts/set_figure_position/set_figure_position.yy",},
     {"name":"set_figure_sprite","order":7,"path":"scripts/set_figure_sprite/set_figure_sprite.yy",},

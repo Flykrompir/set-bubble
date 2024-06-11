@@ -32,4 +32,6 @@ function on_resize() {
 	bh = new_height
 }
 
+place_player(obj_player, bw / 2, bh / 2)
+
 on_resize()
