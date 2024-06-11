@@ -31,6 +31,7 @@
     {"name":"set_figure_position","order":6,"path":"scripts/set_figure_position/set_figure_position.yy",},
     {"name":"set_figure_sprite","order":7,"path":"scripts/set_figure_sprite/set_figure_sprite.yy",},
     {"name":"start_game","order":8,"path":"scripts/start_game/start_game.yy",},
+    {"name":"use_figures","order":11,"path":"scripts/use_figures/use_figures.yy",},
     {"name":"Sound_lose1","order":3,"path":"sounds/Sound_lose1/Sound_lose1.yy",},
     {"name":"Sound_lose2","order":4,"path":"sounds/Sound_lose2/Sound_lose2.yy",},
     {"name":"Sound_lose3","order":5,"path":"sounds/Sound_lose3/Sound_lose3.yy",},

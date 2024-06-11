@@ -49,6 +49,7 @@
     {"id":{"name":"set_figure_position","path":"scripts/set_figure_position/set_figure_position.yy",},},
     {"id":{"name":"set_figure_sprite","path":"scripts/set_figure_sprite/set_figure_sprite.yy",},},
     {"id":{"name":"start_game","path":"scripts/start_game/start_game.yy",},},
+    {"id":{"name":"use_figures","path":"scripts/use_figures/use_figures.yy",},},
     {"id":{"name":"Sound_lose1","path":"sounds/Sound_lose1/Sound_lose1.yy",},},
     {"id":{"name":"Sound_lose2","path":"sounds/Sound_lose2/Sound_lose2.yy",},},
     {"id":{"name":"Sound_lose3","path":"sounds/Sound_lose3/Sound_lose3.yy",},},

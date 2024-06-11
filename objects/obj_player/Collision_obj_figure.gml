@@ -10,7 +10,7 @@ if (last != other) {
 
 		effect_create_above(ef_explosion, other.x, other.y, 0.3, c_red)
 
-		instance_destroy(other)
+		obj_game.figures.destroy_figure(other)
 
 		last = other
 	}

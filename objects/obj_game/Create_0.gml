@@ -1,10 +1,13 @@
 points = 0
 
-start_game({
-	set_figure_sprite: global.set_figure_sprite,
-	set_figure_color: global.set_figure_color,
-	set_figure_position: global.set_figure_position,
-})
+figures = new use_figures(obj_figure)
+
+figures.start()
+// start_game({
+// 	set_figure_sprite: global.set_figure_sprite,
+// 	set_figure_color: global.set_figure_color,
+// 	set_figure_position: global.set_figure_position,
+// })
 
 bw = browser_width
 bh = browser_height
