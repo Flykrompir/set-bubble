@@ -10,7 +10,6 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy","name":"Временные шкалы","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Звуки","folderPath":"folders/Звуки.yy","name":"Звуки","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Кривые анимации","folderPath":"folders/Кривые анимации.yy","name":"Кривые анимации","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -25,6 +24,7 @@
     {"$GMFolder":"","%Name":"Спрайты","folderPath":"folders/Спрайты.yy","name":"Спрайты","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Шейдеры","folderPath":"folders/Шейдеры.yy","name":"Шейдеры","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Шрифты","folderPath":"folders/Шрифты.yy","name":"Шрифты","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
   "isEcma":false,

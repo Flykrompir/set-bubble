@@ -22,7 +22,7 @@ function game_over(_player, _other){
 	var _map_zakraska = {
 		full: [spr_solid_circle, spr_solid_triangle, spr_solid_rectangle],
 		dashed: [spr_dashed_rectangle, spr_dashed_circle, spr_dashed_triangle],
-		empty: [spr_empty_rectangle, spr_empty_circle, spr_empty_rectangle]
+		empty: [spr_empty_rectangle, spr_empty_circle, spr_empty_triangle]
 	}
 
 	var _map_share = {

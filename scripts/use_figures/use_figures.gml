@@ -1,6 +1,6 @@
 function use_figures(_obj_figure) constructor {
   max_count = 10;
-  min_count = 8;
+  min_count = max_count - 2;
   in_use = 0;
   figure = _obj_figure;
 
@@ -32,7 +32,7 @@ function use_figures(_obj_figure) constructor {
 
   static add_new = function () {
     if (in_use <= min_count) {
-      for (var _i = 0; _i < min_count; _i++) {
+      for (var _i = 0; _i <= min_count; _i++) {
         create_figure()
       }
     }
