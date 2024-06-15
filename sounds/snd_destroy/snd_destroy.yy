@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Sound_lose1",
+  "%Name":"snd_destroy",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.700612,
-  "name":"Sound_lose1",
+  "duration":0.078367,
+  "name":"snd_destroy",
   "parent":{
     "name":"Звуки",
     "path":"folders/Звуки.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Sound_lose1.wav",
+  "soundFile":"snd_destroy.mp3",
   "type":0,
   "volume":1.0,
 }
