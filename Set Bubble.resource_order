@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
     {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
     {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
@@ -14,7 +15,6 @@
     {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
     {"name":"Шейдеры","order":6,"path":"folders/Шейдеры.yy",},
     {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
-    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_figure","order":55,"path":"objects/obj_figure/obj_figure.yy",},
@@ -31,6 +31,7 @@
     {"name":"set_figure_position","order":6,"path":"scripts/set_figure_position/set_figure_position.yy",},
     {"name":"set_figure_sprite","order":7,"path":"scripts/set_figure_sprite/set_figure_sprite.yy",},
     {"name":"start_game","order":8,"path":"scripts/start_game/start_game.yy",},
+    {"name":"use_figure_model","order":12,"path":"scripts/use_figure_model/use_figure_model.yy",},
     {"name":"use_figures","order":11,"path":"scripts/use_figures/use_figures.yy",},
     {"name":"snd_loose","order":6,"path":"sounds/snd_loose/snd_loose.yy",},
     {"name":"snd_lose_1","order":3,"path":"sounds/snd_lose_1/snd_lose_1.yy",},

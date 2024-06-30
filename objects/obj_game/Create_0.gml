@@ -1,6 +1,6 @@
 points = 0
 
-figures = new use_figures(obj_figure)
+figures = new use_figures(obj_figure, obj_game)
 
 figures.start()
 // start_game({

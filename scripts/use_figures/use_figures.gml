@@ -1,27 +1,30 @@
-function use_figures(_obj_figure) constructor {
-  max_count = 10;
+function use_figures(_obj_figure, _obj_game) constructor {
+  max_count = 130;
   min_count = max_count - 2;
   in_use = 0;
   figure = _obj_figure;
 
-  function create_figure() {
-    var _instanceX = irandom_range(-100, 0);
-    var _instanceY = irandom_range(-100, 0);
-    
-    var _instance_figure = instance_create_layer(_instanceX, _instanceY, "Instances", figure);
+  figure_model = new use_figure_model(_obj_game);
+
+  static create_figure = function () {  
+    var _instance_figure = instance_create_layer(-100, -100, "Instances", figure);
 
     set_figure_sprite(_instance_figure, get_random_sprite());
     set_figure_color(_instance_figure, get_random_color());
+
+    figure_model.add_figure(_instance_figure);
 
     _instance_figure.direction = irandom_range(0, 359);
     _instance_figure.speed = 1;
 
     in_use++;
+
+    return _instance_figure
   }
 
   static start = function () {
     for (var _i = 0; _i < max_count; _i++) {
-      create_figure()
+      create_figure()    
     }
   }
 
